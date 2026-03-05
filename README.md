@@ -2,8 +2,9 @@
 
 SERP LinkedIn DL is a browser extension that saves videos, images, and post text from your LinkedIn feed and post pages. Click the extension icon, scan visible content, and download what you need. Files auto-organize by author name on your computer. Three free downloads included.
 
-**Product page:** https://serp.ly/linkedin-downloader
-**Help center:** https://help.serp.co/en/
+**Product page:** https://serp.ly/linkedin-downloade<br>
+**Help center:** https://help.serp.co/en/<br>
+**Latest release:** [https://github.com/serpapps/linkedin-downloader/releases/latest](https://github.com/serpapps/linkedin-downloader/releases/latest)
 
 ## Why SERP LinkedIn DL
 
