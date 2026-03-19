@@ -136,22 +136,22 @@ Start here: [https://serp.ly/linkedin-downloader](https://serp.ly/linkedin-downl
 
 ## FAQ
 
-**What types of LinkedIn content can I download**  
+**What types of LinkedIn content can I download?**  
 Videos, images, and post text from supported LinkedIn feed and post pages.
 
-**What file formats are used**  
+**What file formats are used?**  
 Videos are saved as MP4, images are saved in the source format when available, and post text is exported as TXT.
 
-**Does it download every image on the page**  
+**Does it download every image on the page?**  
 No. The extension filters common profile pictures, logos, and interface graphics to focus on post content.
 
-**Can I bulk-download everything visible**  
+**Can I bulk-download everything visible?**  
 Yes. The extension supports bulk export for the content currently visible on the page.
 
-**Where are files saved**  
+**Where are files saved?**  
 They are saved to your default Downloads location, typically organized into LinkedIn-related folders by author.
 
-**Do I need extra software**  
+**Do I need extra software?**  
 No. Everything runs through the browser extension.
 
 ## Notes
