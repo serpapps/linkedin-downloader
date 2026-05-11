@@ -1,5 +1,11 @@
 # LinkedIn Downloader (Browser Extension)
 
+## Watch the video
+
+<a href="https://www.youtube.com/watch?v=xpL1lqtbFRQ" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/linkedin-downloader-save-videos-before-they-disappear.jpg" width="700px">
+</a>
+
 > Download LinkedIn videos, images, and post text from feed pages and post pages in one browser workflow.
 
 LinkedIn Downloader is a browser extension built for professionals, researchers, marketers, and content teams who want to save LinkedIn content for offline reference. It scans the posts visible on the current page, detects downloadable media, and lets you save videos, images, and post text in organized folders without relying on copy-paste or generic page scrapers.
