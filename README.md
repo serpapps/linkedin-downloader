@@ -10,6 +10,12 @@ LinkedIn Downloader is a browser extension built for professionals, researchers,
 - Bulk-download all visible content from the current page
 - Organize saved files by author for easier archive management
 
+## Watch The Video
+
+<a href="https://www.youtube.com/watch?v=xpL1lqtbFRQ" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/linkedin-downloader-save-videos-before-they-disappear.jpg" width="700px">
+</a>
+
 ## Links
 
 - :rocket: Get it here: [LinkedIn Downloader](https://serp.ly/linkedin-downloader)
@@ -20,7 +26,7 @@ LinkedIn Downloader is a browser extension built for professionals, researchers,
 
 ## Preview
 
-![LinkedIn Downloader workflow preview](assets/workflow-preview.webp)
+![LinkedIn Downloader workflow preview](https://raw.githubusercontent.com/serpapps/linkedin-downloader/refs/heads/main/assets/workflow-preview.webp)
 
 ## Table of Contents
 
