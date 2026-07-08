@@ -1,4 +1,4 @@
-# LinkedIn Downloader (Browser Extension)
+# LinkedIn Video Downloader (Browser Extension)
 
 > Download LinkedIn videos, images, and post text from feed pages and post pages in one browser workflow.
 
@@ -12,7 +12,7 @@ LinkedIn Downloader is a browser extension built for professionals, researchers,
 
 ## Links
 
-- :rocket: Get it here: [LinkedIn Downloader](https://serp.ly/linkedin-downloader)
+- :rocket: Get it here: [LinkedIn Downloader](https://serp.ly/linkedin-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/linkedin-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/linkedin-downloader/issues)
@@ -125,7 +125,7 @@ The extension only works on content you can already access in your current Linke
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/linkedin-downloader](https://serp.ly/linkedin-downloader)
+Start here: [https://serp.ly/linkedin-downloader?via=github](https://serp.ly/linkedin-downloader?via=github)
 
 ## Installation Instructions
 
